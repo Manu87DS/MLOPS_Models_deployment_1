@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  1 19:19:16 2021
 
-@author: utilisateur
+@author: E Bonnet
 """
 
 from pydantic import BaseModel
