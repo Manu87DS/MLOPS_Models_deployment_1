@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  1 20:31:59 2021
 
-@author: utilisateur
+@author: E Bonnet
 """
 
 #pip install fastapi uvicorn
